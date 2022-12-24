@@ -60,7 +60,7 @@ You can add tags to your *path operation*, pass the parameter `tags` with a `lis
     {!> ../../../docs_src/path_operation_configuration/tutorial002_py310.py!}
     ```
 
-They will be added to the OpenAPI schema and used by the automatic documentation interfaces:
+They will be added to the OpenAPI schema and used by the automatic documentation interfaces to group the operations by tag:
 
 <img src="/img/tutorial/path-operation-configuration/image01.png">
 
